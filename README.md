@@ -8,6 +8,7 @@ This repository sets out changes that should be made to the skeleton repositorie
 - Java
 - Javascript
 - Python
+- C#
 
 Each contains an updated skeleton repository for their respective language. In order to successfully submit solutions for the Challenge, please copy and paste the relevant files into your repository. As a guide, each folder is equipped with a README file, detailing the files in that skeleton that have changed as a part of the patch.
 
